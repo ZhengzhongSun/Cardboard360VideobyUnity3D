@@ -1,4 +1,3 @@
 # Cardboard360VideobyUnity3D
-This is an unity3d program, which can see a panorama video in cardboard by using easymovietexture.<br><br>
-I think this website will be helpful.<br>
-https://vimeo.com/120757981
+This is an Unity project which can see a panorama video in cardboard for Android phones. There is a sample apk in Release folder, you can try it at first!  
+I think this website will be helpful. https://vimeo.com/120757981
